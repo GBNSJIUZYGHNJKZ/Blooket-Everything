@@ -2,7 +2,7 @@ ThatFruedDued Blooket Utility
 The most advanced and compatible modding utility for Blooket. Proudly 100% open source.
 
 How do I use it?
-The easiest way to use this utility is to simply go to https://blooket-utility.okr765.com. The utility can then be configured by going to the configuration page.
+The easiest way to use this utility is to simply go to https://blooket-utility.okr765.com. The utility can then be configured by going to the configuration page https://blooket-utility.okr765.com/conf.
 
 The Configuration Page
 To add functionality to the Blooket website, you must add an injectables. Injectables are separately-maintained addons that inject into the website before the Blooket code is run, allowing them to access and interact with the Blooket website in ways not normally possible. Because of the privileged nature of injectables, they will have full access to your Blooket account if you are signed in. Please be sure you trust the creator before adding an injectable. I have created several open source injectables that are verified to be safe and not touch your account. For this tutorial, I will be using the Custom Maps injectable. Start by going to the configuration page. Once here, click "Add Injectable" under the Injectables dropdown: Add Injectable Button
